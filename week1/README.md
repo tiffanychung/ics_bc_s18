@@ -1,5 +1,11 @@
 # Week 1 Instructions
 
+June 11 - 15
+
+## Submission Link
+
+When finished with the week's assignment, please push your changes to GitHub and fill out the following <a href="https://goo.gl/forms/lyZ6TKDWzj6R1j7Y2">form</a>.
+
 ## Reading Assignment
 
 Read the following chapters from Chris Pine's Learn to Program:
@@ -18,6 +24,8 @@ Read the following chapters from Chris Pine's Learn to Program:
   - pages 34-39
 
 ## Lab Assignment
+
+Download Ruby and a text editor such as <a href="https://atom.io/">Atom</a> or <a href="https://www.sublimetext.com/3">Sublime</a>.
 
 Complete Lab 1
 
@@ -72,7 +80,7 @@ Complete Lab 1
 
 - Requirements
   - When run, it should:
-    - As for your favorite number
+    - Ask for your favorite number
     - Add 1 to it, and suggest this as a better favorite number (the more tactful the better)
 - Advice
   - `gets.chomp` returns a string, so don't forget to use `.to_i` and `.to_s` as needed!
